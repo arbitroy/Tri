@@ -1,0 +1,3 @@
+﻿  Tri.cpp
+C:\Users\Arbitroy\source\repos\Tri\Tri.cpp(61,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tri.vcxproj -> C:\Users\Arbitroy\source\repos\Tri\Debug\Tri.exe
